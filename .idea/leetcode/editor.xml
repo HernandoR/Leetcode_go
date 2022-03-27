@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/2039_the_time_when_the_network_becomes_idle.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/2039_the_time_when_the_network_becomes_idle.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2039" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/2039_the_time_when_the_network_becomes_idle.go" />
+              <option name="titleSlug" value="the-time-when-the-network-becomes-idle" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/2043_simple_bank_system.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/2043_simple_bank_system.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2043" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/2043_simple_bank_system.go" />
+              <option name="titleSlug" value="simple-bank-system" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/2044_count_number_of_maximum_bitwise_or_subsets.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/2044_count_number_of_maximum_bitwise_or_subsets.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2044" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/2044_count_number_of_maximum_bitwise_or_subsets.go" />
+              <option name="titleSlug" value="count-number-of-maximum-bitwise-or-subsets" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/2055_plates_between_candles.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/2055_plates_between_candles.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2055" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/2055_plates_between_candles.go" />
+              <option name="titleSlug" value="plates-between-candles" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/2100_find_good_days_to_rob_the_bank.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/2100_find_good_days_to_rob_the_bank.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2100" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/2100_find_good_days_to_rob_the_bank.go" />
+              <option name="titleSlug" value="find-good-days-to-rob-the-bank" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/328_odd_even_linked_list.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/328_odd_even_linked_list.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com328" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/328_odd_even_linked_list.go" />
+              <option name="titleSlug" value="odd-even-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/432_all_oone_data_structure.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/432_all_oone_data_structure.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com432" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/432_all_oone_data_structure.go" />
+              <option name="titleSlug" value="all-oone-data-structure" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/504_base_7.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/504_base_7.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com504" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/504_base_7.go" />
+              <option name="titleSlug" value="base-7" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/590_n_ary_tree_postorder_traversal.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/590_n_ary_tree_postorder_traversal.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com590" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/590_n_ary_tree_postorder_traversal.go" />
+              <option name="titleSlug" value="n-ary-tree-postorder-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/606_construct_string_from_binary_tree.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/606_construct_string_from_binary_tree.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com606" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/606_construct_string_from_binary_tree.go" />
+              <option name="titleSlug" value="construct-string-from-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/653_two_sum_iv_input_is_a_bst.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/653_two_sum_iv_input_is_a_bst.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com653" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/653_two_sum_iv_input_is_a_bst.go" />
+              <option name="titleSlug" value="two-sum-iv-input-is-a-bst" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/682_baseball_game.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/682_baseball_game.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com682" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/682_baseball_game.go" />
+              <option name="titleSlug" value="baseball-game" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/720_longest_word_in_dictionary.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/720_longest_word_in_dictionary.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com720" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/720_longest_word_in_dictionary.go" />
+              <option name="titleSlug" value="longest-word-in-dictionary" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/798_smallest_rotation_with_highest_score.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/798_smallest_rotation_with_highest_score.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com798" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/798_smallest_rotation_with_highest_score.go" />
+              <option name="titleSlug" value="smallest-rotation-with-highest-score" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/917_reverse_only_letters.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/917_reverse_only_letters.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com917" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/917_reverse_only_letters.go" />
+              <option name="titleSlug" value="reverse-only-letters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/[2100]find-good-days-to-rob-the-bank.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/2100_find_good_days_to_rob_the_bank.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2100" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/2100_find_good_days_to_rob_the_bank.go" />
+              <option name="titleSlug" value="find-good-days-to-rob-the-bank" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/[2100]find_good_days_to_rob_the_bank.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/2100_find_good_days_to_rob_the_bank.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2100" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/2100_find_good_days_to_rob_the_bank.go" />
+              <option name="titleSlug" value="find-good-days-to-rob-the-bank" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/[2100]适合打劫银行的日子.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/2100_find_good_days_to_rob_the_bank.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2100" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/2100_find_good_days_to_rob_the_bank.go" />
+              <option name="titleSlug" value="find-good-days-to-rob-the-bank" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/剑指 Offer II 005_ase_y1_i.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/剑指 Offer II 005_ase_y1_i.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer II 005" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/剑指 Offer II 005_ase_y1_i.go" />
+              <option name="titleSlug" value="aseY1I" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/Main/剑指 Offer II 037__xag_z_ni.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/剑指 Offer II 037__xag_z_ni.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com剑指 Offer II 037" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/剑指 Offer II 037__xag_z_ni.go" />
+              <option name="titleSlug" value="XagZNi" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1]两数之和.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1]两数之和.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com1" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1]两数之和.go" />
+              <option name="titleSlug" value="two-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2100]适合打劫银行的日子.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/Main/2100_find_good_days_to_rob_the_bank.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2100" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/Main/2100_find_good_days_to_rob_the_bank.go" />
+              <option name="titleSlug" value="find-good-days-to-rob-the-bank" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2]两数相加.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2]两数相加.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com2" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2]两数相加.go" />
+              <option name="titleSlug" value="add-two-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
